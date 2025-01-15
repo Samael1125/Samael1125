@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on *CrowdSourcing-Website*
 
-- 🌱 I’m currently learning *C,Python,*
+- 🌱 I’m currently learning *C, C++, Python, JAVA*
 
 - 👯 I’m looking to collaborate on *Web- Dev*
 
-- 🤝 I’m looking for help with *JS, NodeJs,*
+- 🤝 I’m looking for help with *JS, ReactJS, NodeJs,*
 
-- 💬 Ask me about *C,Pythom*
+- 💬 Ask me about *C, C++, Python*
 
-- 📫 How to reach me *somyasingh3716@gmail.com*
+- 📫 How to reach me *uttkarshsj.2102@gmail.com*
 
 - ⚡ Fun fact *I write code with my pride*
 
